@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@700&family=Prompt:wght@600&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#terms{
+    display: flex;
+}
+#signup-btn{
+    font-weight: bold;
+    font-family: Lora;
+}
+#head-tag{
+    font-family:prompt;
+}
+#container{
+    background-color:white;
+    border-radius: 10px;
+}
+body{
+    background-color: rgb(99, 74, 74);
+    justify-content: center;
+    align-content: center;
+   
+    
+    
+}
